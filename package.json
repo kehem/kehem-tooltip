@@ -1,0 +1,28 @@
+{
+  "name": "kehem-tooltip",
+  "version": "1.0.0",
+  "description": "A modern, minimal, and customizable tooltip plugin for Nuxt 3",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nuxt",
+    "nuxt3",
+    "tooltip",
+    "vue",
+    "plugin",
+    "kehem"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "peerDependencies": {
+    "vue": "^3.0.0",
+    "nuxt": "^3.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kehem/kehem-tooltip.git"
+  }
+}
